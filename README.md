@@ -8,5 +8,5 @@ My minecraft mod for fabric 1.16.4
 
 My language statistic
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artembay&theme=radical)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artembay)
 
