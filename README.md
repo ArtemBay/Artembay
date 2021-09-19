@@ -4,5 +4,5 @@ My github profile stats
 
 My minecraft mod for fabric 1.16.4
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiTaskAPI&repo=MiTaskApi&theme=tokyonight)]
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiTaskAPI&repo=MiTaskApi&theme=tokyonight)
 
