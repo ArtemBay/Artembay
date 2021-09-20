@@ -8,4 +8,4 @@ My minecraft mod for fabric 1.16.4
 
 My language statistic
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Artembay)
+![willianrod's wakatime stats](https://github.com/MiTaskAPI/MiTaskApi?username=MiTaskAPI)
