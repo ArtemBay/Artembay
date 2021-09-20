@@ -15,10 +15,6 @@ My github statistic:
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Artembay&theme=tokyonight)  
 
-My minecraft mod for fabric 1.16.4:
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiTaskAPI&repo=MiTaskApi&theme=tokyonight)
-
 My language statistic:
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Artembay&theme=tokyonight)
