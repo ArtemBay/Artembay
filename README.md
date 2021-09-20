@@ -6,7 +6,7 @@ Skills: Python / Premiere Pro / After Effects / Arduino (C++)
 
 - 🔭 I’m currently working on my discord bot. 
 - 🌱 I’m currently learning Python 
-- 👯 I’m looking to collaborate with TerminalPR0 
+- 👯 I’m looking to collaborate with @TerminalPR0 
 - 📫 How to reach me: Artem Bay#0547 
 
 My github statistic:
