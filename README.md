@@ -17,4 +17,4 @@ My github statistic:
 
 My language statistic:
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Artem bay&theme=tokyonight&show_icons=true)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Artembay&theme=tokyonight&show_icons=true)
