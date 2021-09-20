@@ -13,8 +13,8 @@ My github statistic:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Artembay&show_icons=true&theme=tokyonight)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Artembay&theme=tokyonight)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Artembay&theme=tokyonight&show_icons=true)  
 
 My language statistic:
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Artembay&theme=tokyonight)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Artembay&theme=tokyonight&show_icons=true)
