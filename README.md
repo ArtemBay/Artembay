@@ -11,7 +11,7 @@ Skills: Python / Premiere Pro / After Effects / Arduino (C++)
 
 My github statistic:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Artembay&show_icons=true&icon_color=#445282&)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Artembay&show_icons=true&icon_color=#445282&bg_color=#555760)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Artembay&theme=tokyonight&show_icons=true)  
 
