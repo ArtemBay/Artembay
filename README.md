@@ -9,10 +9,6 @@ Skills: Python / Premiere Pro / After Effects / Arduino (C++)
 - 👯 I’m looking to collaborate with @TerminalPR0 
 - 📫 How to reach me: Artem Bay#0547 
 
-Я гуль 1000-7 
-
-![ghuol](https://data.whicdn.com/images/316359220/original.gif)
-
 
 My github statistic:
 
