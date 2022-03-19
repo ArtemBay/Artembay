@@ -3,6 +3,7 @@
 I coding discord bots on python. Im learning montage video in Premiere Pro and After Effects
 
 Skills: Python / Premiere Pro / After Effects / Photoshop / Cloud Flare / Arduino (C++)
+
 [![My Skills](https://skillicons.dev/icons?i=py,ae,pr,ps,cloudflare,discord,cpp)](https://artembay.tk)
 
 - 🔭 I’m currently working on my discord bot. 
