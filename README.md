@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Artem
 #### I am just python coder
-I coding discord bots on python. Im learning montage video in Premiere Pro and After Effects
+I coding discord bots on python.
 
 Skills: Python / Premiere Pro / After Effects / Photoshop / Cloud Flare / Arduino (C++)
 
