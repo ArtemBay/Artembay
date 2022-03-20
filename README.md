@@ -6,6 +6,8 @@ Skills: Python / Premiere Pro / After Effects / Photoshop / Cloud Flare / Arduin
 
 [![My Skills](https://skillicons.dev/icons?i=py,ae,pr,ps,cloudflare,discord,cpp)](https://artembay.tk)
 
+###I just trolled u
+
 - 🔭 I’m currently working on my discord bot. 
 - 🌱 I’m currently learning Python 
 - 👯 I’m looking to collaborate with @TerminalPR0
