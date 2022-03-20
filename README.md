@@ -6,7 +6,7 @@ Skills: Python / Premiere Pro / After Effects / Photoshop / Cloud Flare / Arduin
 
 [![My Skills](https://skillicons.dev/icons?i=py,ae,pr,ps,cloudflare,discord,cpp)](https://artembay.tk)
 
-###I just trolled u
+### It just joke with cicada
 
 - 🔭 I’m currently working on my discord bot. 
 - 🌱 I’m currently learning Python 
