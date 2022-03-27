@@ -2,6 +2,8 @@
 #### I am just python coder
 I coding discord bots on python.
 
+![dis](https://discord.com/users/356737308898099201/)
+
 Skills: Python / Premiere Pro / After Effects / Photoshop / Cloud Flare / Arduino (C++)
 
 [![My Skills](https://skillicons.dev/icons?i=py,ae,pr,ps,cloudflare,discord,cpp)](https://artembay.tk)
