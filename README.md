@@ -2,7 +2,7 @@
 #### I am just python coder
 I coding discord bots on python.
 
-[![dis](https://discord.c99.nl/widget/theme-1/356737308898099201.png)](https://discord.com/users/356737308898099201/) My discord (click)
+[![dis](My discord (click))](https://discord.com/users/356737308898099201/)
 
 Skills: Python / Premiere Pro / After Effects / Photoshop / Cloud Flare / Arduino (C++)
 
