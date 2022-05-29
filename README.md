@@ -2,7 +2,7 @@
 #### I am just python coder
 I coding discord bots on python.
 
-[!My discord (click)](https://discord.com/users/356737308898099201/)
+[My discord (click)](https://discord.com/users/356737308898099201/)
 
 Skills: Python / Premiere Pro / After Effects / Photoshop / Cloud Flare / Arduino (C++)
 
