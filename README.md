@@ -2,8 +2,6 @@
 #### I am just python coder
 I coding discord bots on python.
 
-[My discord (click)](https://discord.com/users/356737308898099201/)
-
 Skills: Python / Premiere Pro / After Effects / Photoshop / Cloud Flare / Arduino (C++)
 
 [![My Skills](https://skillicons.dev/icons?i=py,ae,pr,ps,cloudflare,discord,cpp)](https://artembay.tk)
@@ -12,7 +10,7 @@ Skills: Python / Premiere Pro / After Effects / Photoshop / Cloud Flare / Arduin
 - 🌱 I’m currently learning Python 
 - 👯 I’m looking to collaborate with @TerminalPR0
 - 📫 How to reach me: Artem Bay#3384
-- 💻 My web site: https://artembay.tk
+- 💻 My web site: https://artembay.site
 
 
 My github statistic:
