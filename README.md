@@ -8,8 +8,7 @@ Skills: Python / Premiere Pro / After Effects / Photoshop / CloudFlare / Arduino
 
 - 🔭 I’m currently working on my discord bot. 
 - 🌱 I’m currently learning Python 
-- 👯 I’m looking to collaborate with @TerminalPR0
-- 📫 How to reach me: Artem Bay#3384
+- 📫 How to reach me: https://t.me/artembay1
 - 💻 My web site: https://artembay.site
 
 
