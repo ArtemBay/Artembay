@@ -6,10 +6,9 @@ Skills: Python / Arduino (C++) / CloudFlare / HTML / CSS / JS / After Effects / 
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,cloudflare,html,css,js,ae,pr,ps)](https://artembay.tk)
 
-- 🔭 I’m currently working on my discord bot. 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Python  
 - 📫 How to reach me: https://t.me/artembay1
-- 💻 My web site: https://artembay.site
+- 💻 My website: https://artembay.site
 
 
 My github statistic:
