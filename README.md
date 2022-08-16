@@ -2,9 +2,9 @@
 #### I am just python coder
 I coding discord bots on python.
 
-Skills: Python / Premiere Pro / After Effects / Photoshop / CloudFlare / Arduino (C++)
+Skills: Python / CloudFlare / Arduino (C++) / HTML / CSS / JS / After Effects / Premiere Pro / Photoshop
 
-[![My Skills](https://skillicons.dev/icons?i=py,ae,pr,ps,cloudflare,discord,cpp,html,css,js)](https://artembay.tk)
+[![My Skills](https://skillicons.dev/icons?i=py,cloudflare,cpp,html,css,js,ae,pr,ps)](https://artembay.tk)
 
 - 🔭 I’m currently working on my discord bot. 
 - 🌱 I’m currently learning Python 
