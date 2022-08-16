@@ -4,7 +4,7 @@ I coding discord bots on python.
 
 Skills: Python / Premiere Pro / After Effects / Photoshop / CloudFlare / Arduino (C++)
 
-[![My Skills](https://skillicons.dev/icons?i=py,ae,pr,ps,cloudflare,discord,cpp)](https://artembay.tk)
+[![My Skills](https://skillicons.dev/icons?i=py,ae,pr,ps,cloudflare,discord,cpp,html,css,js)](https://artembay.tk)
 
 - 🔭 I’m currently working on my discord bot. 
 - 🌱 I’m currently learning Python 
