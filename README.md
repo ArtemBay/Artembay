@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Artem
 #### I am just python coder
-I coding discord bots on python.
 
 Skills: Python / Arduino (C++) / CloudFlare / HTML / CSS / JS / After Effects / Premiere Pro / Photoshop
 
