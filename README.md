@@ -12,7 +12,7 @@ Skills: Python / CloudFlare / HTML / CSS / JS / After Effects / Premiere Pro / P
 
 My github statistic:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Artembay&theme=tokyonight&show_icons=true)  
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Artembay&theme=tokyonight&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Artembay&theme=tokyonight&show_icons=true)  
 
