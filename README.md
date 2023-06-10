@@ -7,7 +7,7 @@ Skills: Python / CloudFlare / HTML / CSS / JS / After Effects / Premiere Pro / P
 
 - 🌱 I’m currently learning Python  
 - 📫 How to reach me: https://t.me/artembay1
-- 💻 My website: https://artembay.site
+- 💻 My website: https://artembay.ru
 
 
 My github statistic:
