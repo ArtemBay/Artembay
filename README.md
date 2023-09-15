@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is Artem
 #### I am just python coder
 
-Skills: Python / CloudFlare / HTML / CSS / JS / After Effects / Premiere Pro / Photoshop
+Skills: Python / CloudFlare / HTML / CSS / After Effects / Premiere Pro / Photoshop
 
-[![My Skills](https://skillicons.dev/icons?i=py,cloudflare,html,css,js,ae,pr,ps)](https://artembay.site)
+[![My Skills](https://skillicons.dev/icons?i=py,cloudflare,html,css,ae,pr,ps)](https://artembay.site)
 
 - 🌱 I’m currently learning Python  
-- 📫 How to reach me: https://t.me/artembay1
+- 📫 How to reach me: https://t.me/baechkartem 
 - 💻 My website: https://artembay.ru
 
 
