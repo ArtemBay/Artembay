@@ -6,7 +6,7 @@ Skills: Python / CloudFlare / HTML / CSS / After Effects / Premiere Pro / Photos
 [![My Skills](https://skillicons.dev/icons?i=py,cloudflare,html,css,ae,pr,ps)](https://artembay.site)
 
 - 🌱 I’m currently learning Python  
-- 📫 How to reach me: https://t.me/baechkartem 
+- 📫 How to reach me: https://t.me/pmartembay 
 - 💻 My website: https://artembay.ru
 
 
